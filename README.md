@@ -27,9 +27,11 @@ Ja s'ha proporcionat algun codi d'inici, de manera que podeu saltar-hi directame
 
 En finalitzar, executeu les ordres següents:
 
-    $ git add .
-    $ git commit -m "done"
-    $ git push origin master
+```shell
+$ git add .
+$ git commit -m "done"
+$ git push origin master
+```
 
 Creeu Pull Request perquè els vostres TA puguin comprovar el vostre treball.
 
